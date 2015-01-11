@@ -21,6 +21,8 @@ npm install
 
 That's it, you're all setup now.  To launch the server just run ```node app.js``` and visit http://127.0.0.1:1337/
 
+API Documentation is available at http://127.0.0.1:1337/api/
+
 ## Controllers
 
 TODO: Fill this in.
