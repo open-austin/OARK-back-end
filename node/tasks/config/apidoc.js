@@ -14,7 +14,7 @@ module.exports = function(grunt) {
 	grunt.config.set('apidoc', {
 		dev: {
 			src: "api/",
-			dest: ".tmp/public/",
+			dest: ".tmp/public/api/",
 			template: "apidoc/",
 			options: {
 				includeFilters: [ ".*\\.js$" ],
